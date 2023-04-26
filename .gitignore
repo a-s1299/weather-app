@@ -9,6 +9,9 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+accuapi.txt
+api.txt
+TODO.txt
 
 # macOS
 .DS_Store
